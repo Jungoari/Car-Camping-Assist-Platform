@@ -42,7 +42,7 @@ This function enables users to safely request items or seek help from nearby veh
 
 ## Demonstration Video
 
-![Demo](images/Demo_Video.mp4)  
+ 
 [▶ Watch Video](images/Demo_Video.mp4)
 
 ---
