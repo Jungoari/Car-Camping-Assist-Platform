@@ -41,7 +41,7 @@
 
 ## Demonstration Video
 
-![Demo](images/Demo_Video.mp4)  
+
 [▶Watch Video](images/Demo_Video.mp4)
 
 ---
